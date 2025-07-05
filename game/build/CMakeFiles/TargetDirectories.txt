@@ -1,0 +1,4 @@
+/home/aryan/Desktop/stack and spin/aca/build/CMakeFiles/casino.dir
+/home/aryan/Desktop/stack and spin/aca/build/CMakeFiles/tests.dir
+/home/aryan/Desktop/stack and spin/aca/build/CMakeFiles/edit_cache.dir
+/home/aryan/Desktop/stack and spin/aca/build/CMakeFiles/rebuild_cache.dir

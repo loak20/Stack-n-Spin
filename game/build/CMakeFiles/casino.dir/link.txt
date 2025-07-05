@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/casino.dir/link.d CMakeFiles/casino.dir/main.cpp.o CMakeFiles/casino.dir/CasinoManager.cpp.o CMakeFiles/casino.dir/Blackjack.cpp.o CMakeFiles/casino.dir/Roulette.cpp.o -o casino
